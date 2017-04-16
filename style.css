@@ -1,0 +1,39 @@
+html {
+  font-size: 15px; 
+  font-family: placeholder: font-family: 
+  'Ubuntu', sans-serif;
+}
+
+html {
+	background-color: #210B36;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto; /* top/bot lt/rt_even_div */
+  background-color: #C68747;
+  padding: 0 20px 20px 20px; /* top lt bot rt */
+  border: 3px solid #C00B29;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+}
+h1 {
+  margin: 0; /* rid gap */
+  padding: 20px 0; /* top/bot lt/rt */   
+  color: #210B36;
+  text-shadow: 0px 0px 0px ; /* h_os v_os blur_R */
+}
+
+p, li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+img {
+  display: block; /* blk = take space, have margin & values */
+  margin: 0 auto;
+}
